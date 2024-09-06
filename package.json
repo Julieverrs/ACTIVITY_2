@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-routing-methods-views",
+    "version": "1.0.0",
+    "description": "A simple Node.js project implementing routing, methods, and views.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.9",
+        "express": "^4.19.2"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+}
